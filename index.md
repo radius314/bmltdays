@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Blogging Like a Hacker
+title: BMLT Days
 ---
 More information coming soon!
