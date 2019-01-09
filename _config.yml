@@ -1,8 +1,8 @@
 # Site settings
-title: BMLT days
+title: BMLT Days 2019
 email: info@bmltdays.org
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is dedicated to BMLT learning days.
+  This site is dedicated to BMLT Days 2019 hosted by the Greater New York Region.
 baseurl: ""
 theme: jekyll-theme-cayman
 exclude:
