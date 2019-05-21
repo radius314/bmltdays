@@ -17,6 +17,6 @@ title: BMLT Days 2019
 | 3p-3:15p  | *break* |   | 
 | 3:15p-5p  | BMLT It Works How and Why  | Currently there are close to forty root servers running around the world with over 23,000 meetings in them. This workshop will cover how the BMLT works for various different service bodies. |
 | 5p - 8p | *dinner break* 
-| 8:00p | Recovery Meeting | We will have a traditional NA recovery meeting that will be live streamed from the Greater New York RSO  | 
+| 8:00p | Recovery Meeting | We will have an NA recovery meeting that will be live streamed from the Greater New York RSO  | 
 
 ![flyer](flyer.png "Flyer")
