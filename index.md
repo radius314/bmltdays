@@ -3,7 +3,7 @@ layout: default
 title: BMLT Days 2019
 ---
 
-zoom: 613-507-415
+join info: https://zoom.us/j/613507415
 
 | Time  | Topic   | Description  |
 |---|---|---|
