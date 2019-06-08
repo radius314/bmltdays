@@ -3,6 +3,8 @@ layout: default
 title: BMLT Days 2019
 ---
 
+join info: https://zoom.us/j/613507415
+
 | Time  | Topic   | Description  |
 |---|---|---|
 | 10a-10:45a  | Root Server part 1  | The BMLT Root Server is the piece that makes all BMLT Enabled projects possible. This will be an introduction to the BMLT Root Server, and hands-on training for Root Server installation and administration. |
